@@ -2,14 +2,6 @@
 
 This is the backend for the Plinko Ball Game using PKT cryptocurrency. The project is built using Node.js, Express, and MongoDB. WalletConnect is used for user authentication.  
 
-## Hello, Josh!!!
-
-I am feeling difficulty to setup an account here [https://pkt.chat/](https://pkt.chat/).
-I hope we can connect on these platforms. Here are my accounts.
-- Telegram: https://t.me/brianoleary
-- Skype: live:.cid.52464875af519411
-- Discord: @bbryan831
-
 ## Features  
 
 - User authentication with WalletConnect  
